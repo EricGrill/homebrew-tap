@@ -1,6 +1,6 @@
 cask "voxops" do
-  version "0.1.3"
-  sha256 "24824d574be8b3980cc6a7b2daff0b52636b9c0c87e83ac1d43c4ea8c9e155f5"
+  version "0.1.4"
+  sha256 "affd559a8a20e80de17cab4cb7691eb6d4f8a8d68931be68a3d2d78ac6ee6964"
 
   url "https://github.com/EricGrill/vox-ops/releases/download/v#{version}/VoxOps-#{version}-macos-arm64.zip"
   name "VoxOps"
